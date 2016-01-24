@@ -9,5 +9,4 @@ For testing just clone the repo and start a development server:
     git clone https://github.com/hellpanderrr/django-datatables-example
     cd django-datatables-example
     python manage.py runserver
-
-![main](https://cloud.githubusercontent.com/assets/2708297/12536053/b59071ae-c2a9-11e5-92c4-accbb2ce1841.jpg)
+<img src="https://cloud.githubusercontent.com/assets/2708297/12536053/b59071ae-c2a9-11e5-92c4-accbb2ce1841.jpg" width="500">
